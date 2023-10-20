@@ -1,0 +1,36 @@
+[submodule "OOPTask11"]
+	path = OOPTask11
+	url = https://github.com/Cassage/OOPTask11.git
+[submodule "OOPTask12"]
+	path = OOPTask12
+	url = https://github.com/Cassage/OOPTask12.git
+[submodule "OOPTask10"]
+	path = OOPTask10
+	url = https://github.com/Cassage/OOPTask10.git
+[submodule "OOPTask9"]
+	path = OOPTask9
+	url = https://github.com/Cassage/OOPTask9.git
+[submodule "OOPTask8"]
+	path = OOPTask8
+	url = https://github.com/Cassage/OOPTask8.git
+[submodule "OOPTask7"]
+	path = OOPTask7
+	url = https://github.com/Cassage/OOPTask7.git
+[submodule "OOPTask6"]
+	path = OOPTask6
+	url = https://github.com/Cassage/OOPTask6.git
+[submodule "OOPTask5"]
+	path = OOPTask5
+	url = https://github.com/Cassage/OOPTask5.git
+[submodule "OOPTask4"]
+	path = OOPTask4
+	url = https://github.com/Cassage/OOPTask4.git
+[submodule "OOPTask3"]
+	path = OOPTask3
+	url = https://github.com/Cassage/OOPTask3.git
+[submodule "OOPTask2"]
+	path = OOPTask2
+	url = https://github.com/Cassage/OOPTask2.git
+[submodule "OOPTask1"]
+	path = OOPTask1
+	url = https://github.com/Cassage/OOPTask1.git
